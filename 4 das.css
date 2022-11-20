@@ -1,0 +1,22 @@
+.Anun{
+    color: red; 
+    width:300px;
+    height:300px;
+    text-align: justify;
+    font-size: 25px;
+    line-height: 1.5;
+}
+.Anun2{
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-indent: 50px;
+
+}
+.myO{
+    font-size: 25px;
+}
+.Hxum{
+    text-decoration: overline;
+}
